@@ -1,1 +1,10 @@
-
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+matplotlib
+seaborn
+mlflow
+nltk
+statsmodels
